@@ -9,7 +9,7 @@ if not Player then
 end
 
 -- Hardcoded Key (no Pastebin fetch)
-local VALID_KEY = "niggeria123"
+local VALID_KEY = "wixxen412"
 
 -- GUI Setup
 local ScreenGui = Instance.new("ScreenGui")
