@@ -10,7 +10,6 @@ end
 
 -- Hardcoded Key (no Pastebin fetch)
 local VALID_KEY = "niggeria123"
-print("Key hardcoded: '" .. VALID_KEY .. "'")
 
 -- GUI Setup
 local ScreenGui = Instance.new("ScreenGui")
